@@ -4,10 +4,11 @@
 
 **REQUIRES CONDA INSTALLED**
 
-0. `git clone https://github.com/gkKshitij/marleys.git`
+1. `git clone https://github.com/gkKshitij/marleys.git`
+1. `cd marleys`
 1. `conda env create -n pyis -f env.yml`
-2. `conda activate pyis`
-3. `python test.py`
+1. `conda activate pyis`
+1. `python test.py`
 
 ---
 
@@ -39,7 +40,7 @@
   - [x] Thresh
   - [x] Dilate
   - [x] Erode
-- [x] Measure the dimensions of various parts of contours according to tiledim.png.
+- [ ] Measure the dimensions of various parts of contours **according** to tiledim.png.
 
 ##### **TODO: (could me majorly improved)**
 
