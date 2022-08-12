@@ -4,6 +4,7 @@
 
 **REQUIRES CONDA INSTALLED**
 
+0. `git clone https://github.com/gkKshitij/marleys.git`
 1. `conda env create -n pyis -f env.yml`
 2. `conda activate pyis`
 3. `python test.py`
